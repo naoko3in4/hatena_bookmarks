@@ -1,2 +1,2 @@
-# daily_news_words
-new words from daily news article
+# hatena_bookmarks
+hot entries from hatena bookmark and notification for a slack channel (without slack url)
